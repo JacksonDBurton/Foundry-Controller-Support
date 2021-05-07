@@ -1,8 +1,8 @@
 {
-    "name": "foundry-controller-support",
-    "title": "Foundry Controller Support",
-    "description": "A super simple module to add basic controller support to foundry applications.",
-    "author": "GalacticJack",
-    "version": "0.1.0",
-    "minimumCoreVersion": "0.8.0"
-  }
+  "name": "foundry-controller-support",
+  "title": "Foundry Controller Support",
+  "description": "A super simple module to add basic controller support to foundry applications.",
+  "author": "GalacticJack",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.0"
+}
